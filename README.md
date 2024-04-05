@@ -1,0 +1,1 @@
+Merhaba! Bu projede, Acunmedya Akademi'de temel HTML kullanarak oluşturduğum bir portföy sitem var. Ayrıca, bu sitemle birlikte 6 farklı projeyi daha geliştirdim. Her biri kendi benzersiz özellikleriyle dolu. 
